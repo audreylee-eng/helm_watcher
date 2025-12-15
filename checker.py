@@ -1,3 +1,4 @@
+send_telegram("✅ Test message: stock checker is running")
 import asyncio
 import json
 import os
