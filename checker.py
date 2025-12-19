@@ -1,4 +1,3 @@
-send_telegram("✅ Test message: Telegram is working")
 
 import asyncio
 import json
